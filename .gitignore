@@ -1,0 +1,67 @@
+# --- General ---
+
+# Ignore OS-generated files and directories
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# --- Python ---
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# --- Virtual Environment ---
+
+# Common virtual environment names (customize if you use a different name)
+IntelliDocs
+IntelliDocs/
+INTELLIDOCS/
+intellidocs
+
+# --- IDE / Editor ---
+
+# VS Code
+.vscode/
+
+# --- Project-Specific ---
+
+# Data (if you don't want to track your sample data, uncomment the following line)
+data/
+
+# Models (if you don't want to track trained model checkpoints, uncomment the following line)
+models/
+Lib/
+Include/
+Scripts/
+share/
+
+images/
+
+# --- Jupyter Notebook ---
+
+# Checkpoint files
+.ipynb_checkpoints
+
+# --- Logs ---
+
+# General log files (if you create any)
+*.log
+
+# --- Images ---
+
+# Ignore specific images (if needed)
+# data/sample_documents/image.png
+
+# --- Caching ---
+.mypy_cache/
+.pytest_cache/

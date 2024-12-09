@@ -1,0 +1,5 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu  # or faiss-gpu if you have a compatible GPU
+flask # if you are implementing a web interface
