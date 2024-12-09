@@ -19,10 +19,9 @@ IntelliDocs is a powerful tool that leverages Large Language Models (LLMs) and R
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/intelligent-doc-search-summarization.git
+    git clone https://github.com/prasannakotyal/IntelliDocs.git
     cd intelligent-doc-search-summarization
     ```
-    Replace `your-username` with your actual GitHub username.
 2. **Create and activate a virtual environment (recommended):**
 
     ```bash
