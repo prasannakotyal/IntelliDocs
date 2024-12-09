@@ -45,7 +45,6 @@ Include/
 Scripts/
 share/
 
-images/
 
 # --- Jupyter Notebook ---
 
@@ -65,3 +64,4 @@ images/
 # --- Caching ---
 .mypy_cache/
 .pytest_cache/
+pyvenv.cfg
